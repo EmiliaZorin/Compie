@@ -1,0 +1,16 @@
+.tile {
+  width: 62px;
+  height: 62px;
+  justify-content: center;
+}
+
+.whiteTile {
+  background-color: white;
+}
+
+.blackTile {
+  background-color: green;
+}
+.playerImage {
+  z-index: 1;
+}

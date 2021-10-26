@@ -1,0 +1,12 @@
+.checkersBoard {
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+  height: 500px;
+  background-color: transparent;
+}
+
+.player {
+  height: 70px;
+  width: 80px;
+}
